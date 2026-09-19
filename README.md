@@ -22,7 +22,6 @@ financials and 2026E–2030E forecasts.
 - Debt & interest
 - D&A
 
-[View Project →]
 
 ## Skills
 
