@@ -21,6 +21,7 @@ financials and 2026E–2030E forecasts.
 - Working capital
 - Debt & interest
 - D&A
+- DCF valuation
 
 
 ## Skills
