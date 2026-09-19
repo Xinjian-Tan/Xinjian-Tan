@@ -1,16 +1,39 @@
-## Hi there 👋
+# Xinjian Tan
 
-<!--
-**Xinjian-Tan/Xinjian-Tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fintech | Financial Modeling | Valuation
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Finance undergraduate at Shenzhen University
+- Interested in Fintech, financial modeling and valuation
+- Currently developing financial models and company valuation projects
+- Building practical experience through independent financial analysis
+
+## Featured Projects
+
+### Tesla Financial Modeling
+Three-statement financial model covering 2023A–2025A historical
+financials and 2026E–2030E forecasts.
+
+- Revenue & cost forecasting
+- Three-statement modeling
+- Scenario analysis
+- Working capital
+- Debt & interest
+- D&A
+
+[View Project →]
+
+## Skills
+
+- Financial Modeling
+- Financial Statement Analysis
+- Valuation
+- Excel
+- Python Student
+- CFA Student
+
+## Contact
+
+- GitHub: Xinjian-Tan
+- Email: tan_moriaty_szu@outlook.com
