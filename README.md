@@ -1,6 +1,6 @@
 # Xinjian Tan
 
-Fintech | Financial Modeling | Valuation
+Fintech | Quant | Financial Modeling | Valuation
 
 ## About Me
 
