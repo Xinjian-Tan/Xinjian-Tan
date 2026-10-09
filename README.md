@@ -45,6 +45,8 @@ Rather than relying on a single indicator or discretionary stock-picking approac
 - Financial Statement Analysis
 - Valuation
 - Excel
+- SQL
+- Wind
 - Quant student
 - Python Student
 - CFA Student
