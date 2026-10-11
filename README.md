@@ -1,6 +1,5 @@
 # Xinjian Tan
-
-Fintech | Quant | Financial Modeling | Valuation
+Corporate Credit Risk Management | Financial Modeling | Valuation | Fintech
 
 ## About Me
 
@@ -43,6 +42,7 @@ Rather than relying on a single indicator or discretionary stock-picking approac
 
 - Financial Modeling
 - Financial Statement Analysis
+- Risk Management
 - Valuation
 - Excel
 - SQL
